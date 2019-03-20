@@ -1,0 +1,6 @@
+D:\workspace\Visual Studio\DesignPatternToturials\SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.pdb
+D:\workspace\Visual Studio\DesignPatternToturials\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\DesignPatternToturials\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.pdb
+D:\workspace\Visual Studio\DesignPatternToturials\SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.exe
+D:\workspace\Visual Studio\DesignPatternToturials\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.exe
+D:\workspace\Visual Studio\DesignPatternToturials\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.csprojAssemblyReference.cache

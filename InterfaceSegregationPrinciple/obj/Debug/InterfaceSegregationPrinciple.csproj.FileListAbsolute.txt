@@ -1,0 +1,7 @@
+D:\workspace\Visual Studio\DesignPatternToturials\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe.config
+D:\workspace\Visual Studio\DesignPatternToturials\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe
+D:\workspace\Visual Studio\DesignPatternToturials\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.pdb
+D:\workspace\Visual Studio\DesignPatternToturials\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\DesignPatternToturials\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\DesignPatternToturials\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.exe
+D:\workspace\Visual Studio\DesignPatternToturials\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.pdb

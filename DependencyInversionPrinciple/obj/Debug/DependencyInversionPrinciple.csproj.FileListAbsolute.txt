@@ -1,0 +1,7 @@
+D:\workspace\Visual Studio\DesignPatternToturials\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe.config
+D:\workspace\Visual Studio\DesignPatternToturials\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe
+D:\workspace\Visual Studio\DesignPatternToturials\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.pdb
+D:\workspace\Visual Studio\DesignPatternToturials\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\DesignPatternToturials\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\DesignPatternToturials\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.exe
+D:\workspace\Visual Studio\DesignPatternToturials\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.pdb

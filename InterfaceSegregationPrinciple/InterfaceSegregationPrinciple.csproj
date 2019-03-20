@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D52DAB9-947A-4956-AFC1-360CFDB7C62B}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>InterfaceSegregationPrinciple</RootNamespace>
+    <AssemblyName>InterfaceSegregationPrinciple</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="After\AudioBook\Audiobook.cs" />
+    <Compile Include="After\Book\Book.cs" />
+    <Compile Include="After\DigitalMovie\DigitalMovie.cs" />
+    <Compile Include="After\DVD\DVD.cs" />
+    <Compile Include="After\AudioBook\IAudioBook.cs" />
+    <Compile Include="After\Book\IBook.cs" />
+    <Compile Include="After\GeneralInterface\IBorrowable.cs" />
+    <Compile Include="After\AudioBook\IBorrowableAudioBook.cs" />
+    <Compile Include="After\Book\IBorrowableBook.cs" />
+    <Compile Include="After\DVD\IBorrowableDVD.cs" />
+    <Compile Include="After\GeneralInterface\ILibraryItem.cs" />
+    <Compile Include="After\DVD\IDVD.cs" />
+    <Compile Include="After\ISP.cs" />
+    <Compile Include="After\Book\ReferenceBook.cs" />
+    <Compile Include="Before\AudioBook.cs" />
+    <Compile Include="Before\Book.cs" />
+    <Compile Include="Before\DVD.cs" />
+    <Compile Include="Before\ILibraryItem.cs" />
+    <Compile Include="Before\ISP.cs" />
+    <Compile Include="Before\ReferenceBook.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

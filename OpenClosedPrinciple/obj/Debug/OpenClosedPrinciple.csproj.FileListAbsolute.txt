@@ -1,0 +1,7 @@
+D:\workspace\Visual Studio\DesignPatternToturials\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe.config
+D:\workspace\Visual Studio\DesignPatternToturials\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe
+D:\workspace\Visual Studio\DesignPatternToturials\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+D:\workspace\Visual Studio\DesignPatternToturials\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\DesignPatternToturials\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.exe
+D:\workspace\Visual Studio\DesignPatternToturials\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb
+D:\workspace\Visual Studio\DesignPatternToturials\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csprojAssemblyReference.cache
